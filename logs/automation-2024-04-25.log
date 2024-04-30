@@ -1,0 +1,897 @@
+09:54:42.764 [main] INFO  - Clicked on Cabs option
+09:54:44.017 [main] INFO  - Clicked one way outstation cab
+09:54:55.497 [main] INFO  - Going to makemytrip home page
+09:54:55.652 [main] INFO  - maximized window
+09:55:08.509 [main] INFO  - Going to makemytrip home page
+09:55:08.655 [main] INFO  - maximized window
+09:55:13.977 [main] INFO  - In the MakeMyTrip Website
+09:55:14.490 [main] INFO  - Clicked on Cabs option
+09:55:17.731 [main] INFO  - Clicked on search button
+09:55:20.741 [main] INFO  - In cabs page
+09:55:20.928 [main] INFO  - Clicking more dropdown
+09:55:21.200 [main] INFO  - Clicking gift cards option
+09:55:23.985 [main] INFO  - Clicking on wedding giftcard
+09:55:25.628 [main] INFO  - Passing sender's name, mobile and email id
+09:55:27.153 [main] INFO  - Clicking on buy now option with valid email address
+09:55:40.872 [main] INFO  - Going to makemytrip home page
+09:55:41.001 [main] INFO  - maximized window
+09:55:45.322 [main] INFO  - In the MakeMyTrip Website
+09:55:45.608 [main] INFO  - Clicking on hotels icon
+09:55:46.093 [main] INFO  - Clicking on upto 4 rooms option
+09:55:46.403 [main] INFO  - Clicking on rooms and guests dropdown
+09:55:46.854 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+09:56:12.251 [main] INFO  - Going to makemytrip home page
+09:56:12.378 [main] INFO  - maximized window
+09:56:16.517 [main] INFO  - In the MakeMyTrip Website
+09:56:16.840 [main] INFO  - Clicked on Cabs option
+09:56:18.087 [main] INFO  - Clicked one way outstation cab
+09:56:30.088 [main] INFO  - Going to makemytrip home page
+09:56:30.233 [main] INFO  - maximized window
+10:05:32.757 [main] INFO  - Going to makemytrip home page
+10:05:32.888 [main] INFO  - maximized window
+10:05:46.869 [main] INFO  - In the MakeMyTrip Website
+10:05:55.013 [main] INFO  - Going to makemytrip home page
+10:05:55.147 [main] INFO  - maximized window
+10:06:17.977 [main] INFO  - Going to makemytrip home page
+10:06:18.114 [main] INFO  - maximized window
+10:06:32.499 [main] INFO  - In the MakeMyTrip Website
+10:06:40.396 [main] INFO  - Going to makemytrip home page
+10:06:40.527 [main] INFO  - maximized window
+10:06:54.551 [main] INFO  - In the MakeMyTrip Website
+10:10:43.268 [main] INFO  - Going to makemytrip home page
+10:10:43.417 [main] INFO  - maximized window
+10:10:57.763 [main] INFO  - In the MakeMyTrip Website
+10:11:06.944 [main] INFO  - Going to makemytrip home page
+10:11:07.134 [main] INFO  - maximized window
+10:12:07.736 [main] INFO  - Going to makemytrip home page
+10:12:07.901 [main] INFO  - maximized window
+10:12:20.064 [main] INFO  - Going to makemytrip home page
+10:12:20.217 [main] INFO  - maximized window
+10:12:59.946 [main] INFO  - Going to makemytrip home page
+10:13:00.092 [main] INFO  - maximized window
+10:13:16.959 [main] INFO  - In the MakeMyTrip Website
+10:13:24.954 [main] INFO  - Going to makemytrip home page
+10:13:25.098 [main] INFO  - maximized window
+10:18:22.283 [main] INFO  - Going to makemytrip home page
+10:18:22.434 [main] INFO  - maximized window
+10:18:34.405 [main] INFO  - Going to makemytrip home page
+10:18:34.568 [main] INFO  - maximized window
+10:19:39.336 [main] INFO  - Going to makemytrip home page
+10:19:39.498 [main] INFO  - maximized window
+10:19:50.584 [main] INFO  - Going to makemytrip home page
+10:19:50.717 [main] INFO  - maximized window
+10:19:59.734 [main] INFO  - In the MakeMyTrip Website
+10:35:24.642 [main] INFO  - Going to makemytrip home page
+10:35:24.774 [main] INFO  - maximized window
+10:35:40.774 [main] INFO  - Going to makemytrip home page
+10:35:40.909 [main] INFO  - maximized window
+10:35:50.151 [main] INFO  - In the MakeMyTrip Website
+10:40:43.183 [main] INFO  - Going to makemytrip home page
+10:40:43.311 [main] INFO  - maximized window
+10:40:54.186 [main] INFO  - Going to makemytrip home page
+10:40:54.315 [main] INFO  - maximized window
+10:43:18.051 [main] INFO  - Going to makemytrip home page
+10:43:18.181 [main] INFO  - maximized window
+10:43:29.884 [main] INFO  - Going to makemytrip home page
+10:43:30.020 [main] INFO  - maximized window
+10:44:18.431 [main] INFO  - Going to makemytrip home page
+10:44:18.562 [main] INFO  - maximized window
+10:44:28.601 [main] INFO  - Going to makemytrip home page
+10:44:28.717 [main] INFO  - maximized window
+10:44:33.907 [main] INFO  - In the MakeMyTrip Website
+10:44:34.281 [main] INFO  - Clicked on Cabs option
+10:44:40.312 [main] INFO  - Clicked on search button
+10:44:43.332 [main] INFO  - In cabs page
+10:44:43.617 [main] INFO  - Clicking more dropdown
+10:44:43.979 [main] INFO  - Clicking gift cards option
+10:44:47.156 [main] INFO  - Clicking on wedding giftcard
+10:44:49.669 [main] INFO  - Passing sender's name, mobile and email id
+10:44:51.294 [main] INFO  - Clicking on buy now option with invalid email address
+10:44:51.768 [main] INFO  - Capturing the error message displayed
+10:45:10.396 [main] INFO  - Going to makemytrip home page
+10:45:10.525 [main] INFO  - maximized window
+10:45:15.023 [main] INFO  - In the MakeMyTrip Website
+10:45:15.498 [main] INFO  - Clicked on Cabs option
+10:45:17.035 [main] INFO  - Clicked one way outstation cab
+10:45:20.934 [main] INFO  - Selected Delhi
+10:46:11.448 [main] INFO  - Going to makemytrip home page
+10:46:11.586 [main] INFO  - maximized window
+10:46:37.254 [main] INFO  - Going to makemytrip home page
+10:46:37.378 [main] INFO  - maximized window
+10:47:33.907 [main] INFO  - Going to makemytrip home page
+10:47:34.039 [main] INFO  - maximized window
+10:48:00.453 [main] INFO  - Going to makemytrip home page
+10:48:00.592 [main] INFO  - maximized window
+10:48:37.227 [main] INFO  - Going to makemytrip home page
+10:48:37.350 [main] INFO  - maximized window
+10:48:42.004 [main] INFO  - In the MakeMyTrip Website
+10:48:42.424 [main] INFO  - Clicked on Cabs option
+10:48:43.550 [main] INFO  - Clicked one way outstation cab
+10:50:01.730 [main] INFO  - Going to makemytrip home page
+10:50:01.865 [main] INFO  - maximized window
+10:50:19.181 [main] INFO  - Going to makemytrip home page
+10:50:19.302 [main] INFO  - maximized window
+10:50:36.711 [main] INFO  - Going to makemytrip home page
+10:50:36.833 [main] INFO  - maximized window
+10:50:55.023 [main] INFO  - Going to makemytrip home page
+10:50:55.153 [main] INFO  - maximized window
+10:52:23.628 [main] INFO  - Going to makemytrip home page
+10:52:23.756 [main] INFO  - maximized window
+10:52:44.020 [main] INFO  - Going to makemytrip home page
+10:52:44.148 [main] INFO  - maximized window
+10:52:51.911 [main] INFO  - In the MakeMyTrip Website
+10:52:53.020 [main] INFO  - Clicked on Cabs option
+10:52:54.747 [main] INFO  - Clicked one way outstation cab
+10:52:58.694 [main] INFO  - Selected Delhi
+10:53:02.338 [main] INFO  - Selected Manali
+10:53:03.260 [main] INFO  - Selected date
+10:53:04.994 [main] INFO  - Selected Time
+10:53:08.435 [main] INFO  - Clicked on search button
+10:53:11.450 [main] INFO  - In cabs page
+10:53:11.894 [main] INFO  - Selected low to highest price in the sort by dropdown
+10:53:12.301 [main] INFO  - Selected SUV Checkbox
+10:53:12.586 [main] INFO  - Printing lowest cab details : 
+10:53:33.961 [main] INFO  - Going to makemytrip home page
+10:53:34.083 [main] INFO  - maximized window
+10:53:45.015 [main] INFO  - Going to makemytrip home page
+10:53:45.140 [main] INFO  - maximized window
+10:53:55.855 [main] INFO  - Going to makemytrip home page
+10:53:55.994 [main] INFO  - maximized window
+10:54:06.540 [main] INFO  - Going to makemytrip home page
+10:54:06.665 [main] INFO  - maximized window
+10:54:15.872 [main] INFO  - In the MakeMyTrip Website
+10:54:16.146 [main] INFO  - Clicking on hotels icon
+10:54:45.444 [main] INFO  - Going to makemytrip home page
+10:54:45.577 [main] INFO  - maximized window
+10:54:57.067 [main] INFO  - Going to makemytrip home page
+10:54:57.191 [main] INFO  - maximized window
+10:55:08.217 [main] INFO  - In the MakeMyTrip Website
+10:55:25.941 [main] INFO  - Going to makemytrip home page
+10:55:26.070 [main] INFO  - maximized window
+10:55:36.438 [main] INFO  - Going to makemytrip home page
+10:55:36.549 [main] INFO  - maximized window
+10:57:47.770 [main] INFO  - Going to makemytrip home page
+10:57:47.906 [main] INFO  - maximized window
+10:57:58.027 [main] INFO  - Going to makemytrip home page
+10:57:58.153 [main] INFO  - maximized window
+10:58:08.129 [main] INFO  - Going to makemytrip home page
+10:58:08.251 [main] INFO  - maximized window
+10:58:18.915 [main] INFO  - Going to makemytrip home page
+10:58:19.034 [main] INFO  - maximized window
+11:01:49.696 [main] INFO  - Going to makemytrip home page
+11:01:49.824 [main] INFO  - maximized window
+11:02:00.604 [main] INFO  - Going to makemytrip home page
+11:02:00.721 [main] INFO  - maximized window
+11:02:09.716 [main] INFO  - In the MakeMyTrip Website
+11:02:10.826 [main] INFO  - Clicked on Cabs option
+11:02:14.002 [main] INFO  - Clicked on search button
+11:02:17.009 [main] INFO  - In cabs page
+11:02:17.203 [main] INFO  - Clicking more dropdown
+11:02:17.472 [main] INFO  - Clicking gift cards option
+11:02:19.901 [main] INFO  - Clicking on wedding giftcard
+11:02:21.359 [main] INFO  - Passing sender's name, mobile and email id
+11:02:22.861 [main] INFO  - Clicking on buy now option with invalid email address
+11:02:23.180 [main] INFO  - Capturing the error message displayed
+11:02:29.700 [main] INFO  - Going to makemytrip home page
+11:02:29.821 [main] INFO  - maximized window
+11:02:38.818 [main] INFO  - In the MakeMyTrip Website
+11:02:39.924 [main] INFO  - Clicked on Cabs option
+11:02:41.861 [main] INFO  - Clicked on search button
+11:02:44.883 [main] INFO  - In cabs page
+11:02:45.051 [main] INFO  - Clicking more dropdown
+11:02:45.310 [main] INFO  - Clicking gift cards option
+11:02:47.359 [main] INFO  - Clicking on wedding giftcard
+11:02:48.449 [main] INFO  - Passing sender's name, mobile and email id
+11:02:49.912 [main] INFO  - Clicking on buy now option with valid email address
+11:03:00.841 [main] INFO  - Going to makemytrip home page
+11:03:00.963 [main] INFO  - maximized window
+11:03:10.657 [main] INFO  - In the MakeMyTrip Website
+11:03:10.951 [main] INFO  - Clicking on hotels icon
+11:03:12.435 [main] INFO  - Clicking on upto 4 rooms option
+11:03:12.972 [main] INFO  - Clicking on rooms and guests dropdown
+11:03:13.692 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:03:48.341 [main] INFO  - Going to makemytrip home page
+11:03:48.465 [main] INFO  - maximized window
+11:03:58.325 [main] INFO  - In the MakeMyTrip Website
+11:03:59.430 [main] INFO  - Clicked on Cabs option
+11:04:00.559 [main] INFO  - Clicked one way outstation cab
+11:04:04.414 [main] INFO  - Selected Delhi
+11:04:07.895 [main] INFO  - Selected Manali
+11:04:08.462 [main] INFO  - Selected date
+11:04:09.155 [main] INFO  - Selected Time
+11:04:11.168 [main] INFO  - Clicked on search button
+11:04:14.184 [main] INFO  - In cabs page
+11:04:14.551 [main] INFO  - Selected low to highest price in the sort by dropdown
+11:04:14.857 [main] INFO  - Selected SUV Checkbox
+11:04:15.040 [main] INFO  - Printing lowest cab details : 
+11:06:51.369 [main] INFO  - Going to makemytrip home page
+11:06:51.498 [main] INFO  - maximized window
+11:07:00.389 [main] INFO  - In the MakeMyTrip Website
+11:07:00.732 [main] INFO  - Clicking on hotels icon
+11:07:02.585 [main] INFO  - Clicking on upto 4 rooms option
+11:07:03.030 [main] INFO  - Clicking on rooms and guests dropdown
+11:07:03.573 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:07:48.597 [main] INFO  - Going to makemytrip home page
+11:07:48.748 [main] INFO  - maximized window
+11:07:58.870 [main] INFO  - In the MakeMyTrip Website
+11:07:59.195 [main] INFO  - Clicking on hotels icon
+11:08:01.957 [main] INFO  - Clicking on upto 4 rooms option
+11:08:02.728 [main] INFO  - Clicking on rooms and guests dropdown
+11:08:03.623 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:08:26.745 [main] INFO  - Going to makemytrip home page
+11:08:26.871 [main] INFO  - maximized window
+11:08:36.742 [main] INFO  - In the MakeMyTrip Website
+11:08:37.968 [main] INFO  - Clicked on Cabs option
+11:08:41.840 [main] INFO  - Clicked on search button
+11:08:44.864 [main] INFO  - In cabs page
+11:08:45.234 [main] INFO  - Clicking more dropdown
+11:08:45.666 [main] INFO  - Clicking gift cards option
+11:08:47.663 [main] INFO  - Clicking on wedding giftcard
+11:08:48.851 [main] INFO  - Passing sender's name, mobile and email id
+11:08:50.307 [main] INFO  - Clicking on buy now option with invalid email address
+11:08:50.599 [main] INFO  - Capturing the error message displayed
+11:08:56.820 [main] INFO  - Going to makemytrip home page
+11:08:56.940 [main] INFO  - maximized window
+11:09:52.237 [main] INFO  - Going to makemytrip home page
+11:09:52.359 [main] INFO  - maximized window
+11:10:02.804 [main] INFO  - Going to makemytrip home page
+11:10:02.930 [main] INFO  - maximized window
+11:10:11.708 [main] INFO  - In the MakeMyTrip Website
+11:10:12.863 [main] INFO  - Clicked on Cabs option
+11:10:16.298 [main] INFO  - Clicked on search button
+11:10:19.311 [main] INFO  - In cabs page
+11:10:19.558 [main] INFO  - Clicking more dropdown
+11:10:19.911 [main] INFO  - Clicking gift cards option
+11:10:22.821 [main] INFO  - Clicking on wedding giftcard
+11:10:24.220 [main] INFO  - Passing sender's name, mobile and email id
+11:10:25.713 [main] INFO  - Clicking on buy now option with valid email address
+11:10:55.260 [main] INFO  - Going to makemytrip home page
+11:10:55.378 [main] INFO  - maximized window
+11:11:14.768 [main] INFO  - In the MakeMyTrip Website
+11:11:15.094 [main] INFO  - Clicked on Cabs option
+11:11:18.695 [main] INFO  - Clicked on search button
+11:11:21.709 [main] INFO  - In cabs page
+11:11:21.986 [main] INFO  - Clicking more dropdown
+11:11:22.333 [main] INFO  - Clicking gift cards option
+11:11:24.860 [main] INFO  - Clicking on wedding giftcard
+11:11:26.540 [main] INFO  - Passing sender's name, mobile and email id
+11:11:28.129 [main] INFO  - Clicking on buy now option with invalid email address
+11:11:28.558 [main] INFO  - Capturing the error message displayed
+11:11:35.946 [main] INFO  - Going to makemytrip home page
+11:11:36.069 [main] INFO  - maximized window
+11:11:46.009 [main] INFO  - In the MakeMyTrip Website
+11:11:47.150 [main] INFO  - Clicked on Cabs option
+11:11:49.560 [main] INFO  - Clicked on search button
+11:11:52.581 [main] INFO  - In cabs page
+11:11:52.861 [main] INFO  - Clicking more dropdown
+11:11:53.238 [main] INFO  - Clicking gift cards option
+11:11:55.406 [main] INFO  - Clicking on wedding giftcard
+11:11:56.615 [main] INFO  - Passing sender's name, mobile and email id
+11:11:58.106 [main] INFO  - Clicking on buy now option with valid email address
+11:13:12.932 [main] INFO  - Going to makemytrip home page
+11:13:13.061 [main] INFO  - maximized window
+11:13:22.905 [main] INFO  - In the MakeMyTrip Website
+11:13:24.101 [main] INFO  - Clicked on Cabs option
+11:13:26.461 [main] INFO  - Clicked one way outstation cab
+11:13:30.407 [main] INFO  - Selected Delhi
+11:13:33.869 [main] INFO  - Selected Manali
+11:13:34.415 [main] INFO  - Selected date
+11:13:35.152 [main] INFO  - Selected Time
+11:13:36.764 [main] INFO  - Clicked on search button
+11:13:39.778 [main] INFO  - In cabs page
+11:13:40.877 [main] INFO  - Selected low to highest price in the sort by dropdown
+11:13:41.146 [main] INFO  - Selected SUV Checkbox
+11:13:41.323 [main] INFO  - Printing lowest cab details : 
+11:14:36.216 [main] INFO  - Going to makemytrip home page
+11:14:36.354 [main] INFO  - maximized window
+11:14:46.044 [main] INFO  - In the MakeMyTrip Website
+11:14:47.154 [main] INFO  - Clicked on Cabs option
+11:14:51.338 [main] INFO  - Clicked on search button
+11:14:54.355 [main] INFO  - In cabs page
+11:14:54.649 [main] INFO  - Clicking more dropdown
+11:14:55.177 [main] INFO  - Clicking gift cards option
+11:14:57.510 [main] INFO  - Clicking on wedding giftcard
+11:14:58.746 [main] INFO  - Passing sender's name, mobile and email id
+11:15:00.226 [main] INFO  - Clicking on buy now option with invalid email address
+11:15:00.541 [main] INFO  - Capturing the error message displayed
+11:15:06.731 [main] INFO  - Going to makemytrip home page
+11:15:06.854 [main] INFO  - maximized window
+11:15:16.375 [main] INFO  - In the MakeMyTrip Website
+11:15:17.530 [main] INFO  - Clicked on Cabs option
+11:15:20.165 [main] INFO  - Clicked on search button
+11:15:23.177 [main] INFO  - In cabs page
+11:15:23.356 [main] INFO  - Clicking more dropdown
+11:15:23.672 [main] INFO  - Clicking gift cards option
+11:15:26.255 [main] INFO  - Clicking on wedding giftcard
+11:15:27.571 [main] INFO  - Passing sender's name, mobile and email id
+11:15:29.133 [main] INFO  - Clicking on buy now option with valid email address
+11:15:46.944 [main] INFO  - Going to makemytrip home page
+11:15:47.072 [main] INFO  - maximized window
+11:15:56.848 [main] INFO  - In the MakeMyTrip Website
+11:15:57.218 [main] INFO  - Clicking on hotels icon
+11:15:58.979 [main] INFO  - Clicking on upto 4 rooms option
+11:15:59.371 [main] INFO  - Clicking on rooms and guests dropdown
+11:15:59.837 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:16:22.136 [main] INFO  - Going to makemytrip home page
+11:16:22.261 [main] INFO  - maximized window
+11:16:31.931 [main] INFO  - In the MakeMyTrip Website
+11:16:33.063 [main] INFO  - Clicked on Cabs option
+11:16:34.337 [main] INFO  - Clicked one way outstation cab
+11:16:38.248 [main] INFO  - Selected Delhi
+11:16:41.761 [main] INFO  - Selected Manali
+11:16:42.327 [main] INFO  - Selected date
+11:16:43.149 [main] INFO  - Selected Time
+11:16:43.465 [main] INFO  - Clicked on search button
+11:16:46.488 [main] INFO  - In cabs page
+11:17:03.487 [main] INFO  - Going to makemytrip home page
+11:17:03.612 [main] INFO  - maximized window
+11:17:13.397 [main] INFO  - In the MakeMyTrip Website
+11:17:14.512 [main] INFO  - Clicked on Cabs option
+11:17:16.418 [main] INFO  - Clicked on search button
+11:17:19.442 [main] INFO  - In cabs page
+11:17:19.593 [main] INFO  - Clicking more dropdown
+11:17:19.856 [main] INFO  - Clicking gift cards option
+11:17:21.813 [main] INFO  - Clicking on wedding giftcard
+11:17:23.118 [main] INFO  - Passing sender's name, mobile and email id
+11:17:24.632 [main] INFO  - Clicking on buy now option with invalid email address
+11:17:24.934 [main] INFO  - Capturing the error message displayed
+11:17:30.834 [main] INFO  - Going to makemytrip home page
+11:17:30.948 [main] INFO  - maximized window
+11:17:50.040 [main] INFO  - In the MakeMyTrip Website
+11:17:50.318 [main] INFO  - Clicked on Cabs option
+11:17:52.350 [main] INFO  - Clicked on search button
+11:17:55.366 [main] INFO  - In cabs page
+11:17:55.537 [main] INFO  - Clicking more dropdown
+11:17:55.775 [main] INFO  - Clicking gift cards option
+11:17:57.971 [main] INFO  - Clicking on wedding giftcard
+11:17:59.138 [main] INFO  - Passing sender's name, mobile and email id
+11:18:00.601 [main] INFO  - Clicking on buy now option with valid email address
+11:18:16.127 [main] INFO  - Going to makemytrip home page
+11:18:16.247 [main] INFO  - maximized window
+11:18:25.880 [main] INFO  - In the MakeMyTrip Website
+11:18:26.161 [main] INFO  - Clicking on hotels icon
+11:18:27.279 [main] INFO  - Clicking on upto 4 rooms option
+11:18:27.543 [main] INFO  - Clicking on rooms and guests dropdown
+11:18:27.965 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:18:50.279 [main] INFO  - Going to makemytrip home page
+11:18:50.404 [main] INFO  - maximized window
+11:18:56.623 [main] INFO  - In the MakeMyTrip Website
+11:19:10.161 [main] INFO  - Going to makemytrip home page
+11:19:10.280 [main] INFO  - maximized window
+11:19:30.451 [main] INFO  - In the MakeMyTrip Website
+11:19:30.790 [main] INFO  - Clicked on Cabs option
+11:19:32.455 [main] INFO  - Clicked one way outstation cab
+11:19:36.383 [main] INFO  - Selected Delhi
+11:19:40.052 [main] INFO  - Selected Manali
+11:19:40.786 [main] INFO  - Selected date
+11:19:41.993 [main] INFO  - Selected Time
+11:19:43.839 [main] INFO  - Clicked on search button
+11:19:46.854 [main] INFO  - In cabs page
+11:19:47.361 [main] INFO  - Selected low to highest price in the sort by dropdown
+11:19:47.786 [main] INFO  - Selected SUV Checkbox
+11:19:48.008 [main] INFO  - Printing lowest cab details : 
+11:20:08.978 [main] INFO  - Going to makemytrip home page
+11:20:09.112 [main] INFO  - maximized window
+11:20:19.471 [main] INFO  - In the MakeMyTrip Website
+11:20:20.645 [main] INFO  - Clicked on Cabs option
+11:20:21.803 [main] INFO  - Clicked one way outstation cab
+11:20:25.642 [main] INFO  - Selected Delhi
+11:20:29.148 [main] INFO  - Selected Manali
+11:20:29.667 [main] INFO  - Selected date
+11:20:30.415 [main] INFO  - Selected Time
+11:20:32.037 [main] INFO  - Clicked on search button
+11:20:35.062 [main] INFO  - In cabs page
+11:20:35.406 [main] INFO  - Selected low to highest price in the sort by dropdown
+11:20:35.698 [main] INFO  - Selected SUV Checkbox
+11:20:35.874 [main] INFO  - Printing lowest cab details : 
+11:20:42.259 [main] INFO  - Going to makemytrip home page
+11:20:42.380 [main] INFO  - maximized window
+11:20:48.469 [main] INFO  - In the MakeMyTrip Website
+11:20:55.999 [main] INFO  - Going to makemytrip home page
+11:20:56.128 [main] INFO  - maximized window
+11:21:07.080 [main] INFO  - Going to makemytrip home page
+11:21:07.203 [main] INFO  - maximized window
+11:21:16.360 [main] INFO  - In the MakeMyTrip Website
+11:21:16.687 [main] INFO  - Clicking on hotels icon
+11:21:17.836 [main] INFO  - Clicking on upto 4 rooms option
+11:21:18.252 [main] INFO  - Clicking on rooms and guests dropdown
+11:21:19.375 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:21:42.257 [main] INFO  - Going to makemytrip home page
+11:21:42.384 [main] INFO  - maximized window
+11:21:51.361 [main] INFO  - In the MakeMyTrip Website
+11:21:52.484 [main] INFO  - Clicked on Cabs option
+11:21:56.219 [main] INFO  - Clicked on search button
+11:21:59.238 [main] INFO  - In cabs page
+11:21:59.545 [main] INFO  - Clicking more dropdown
+11:22:00.117 [main] INFO  - Clicking gift cards option
+11:22:02.281 [main] INFO  - Clicking on wedding giftcard
+11:22:03.714 [main] INFO  - Passing sender's name, mobile and email id
+11:22:05.237 [main] INFO  - Clicking on buy now option with invalid email address
+11:22:05.548 [main] INFO  - Capturing the error message displayed
+11:22:11.818 [main] INFO  - Going to makemytrip home page
+11:22:11.939 [main] INFO  - maximized window
+11:22:31.012 [main] INFO  - In the MakeMyTrip Website
+11:22:31.333 [main] INFO  - Clicked on Cabs option
+11:22:33.319 [main] INFO  - Clicked on search button
+11:22:36.337 [main] INFO  - In cabs page
+11:22:36.531 [main] INFO  - Clicking more dropdown
+11:22:36.875 [main] INFO  - Clicking gift cards option
+11:22:39.115 [main] INFO  - Clicking on wedding giftcard
+11:22:40.383 [main] INFO  - Passing sender's name, mobile and email id
+11:22:41.921 [main] INFO  - Clicking on buy now option with valid email address
+11:23:23.854 [main] INFO  - Going to makemytrip home page
+11:23:23.984 [main] INFO  - maximized window
+11:23:32.674 [main] INFO  - In the MakeMyTrip Website
+11:23:33.809 [main] INFO  - Clicked on Cabs option
+11:23:35.728 [main] INFO  - Clicked one way outstation cab
+11:23:39.849 [main] INFO  - Selected Delhi
+11:23:43.449 [main] INFO  - Selected Manali
+11:23:44.164 [main] INFO  - Selected date
+11:23:45.239 [main] INFO  - Selected Time
+11:23:47.262 [main] INFO  - Clicked on search button
+11:23:50.278 [main] INFO  - In cabs page
+11:23:50.725 [main] INFO  - Selected low to highest price in the sort by dropdown
+11:23:51.106 [main] INFO  - Selected SUV Checkbox
+11:23:51.369 [main] INFO  - Printing lowest cab details : 
+11:23:58.133 [main] INFO  - Going to makemytrip home page
+11:23:58.254 [main] INFO  - maximized window
+11:24:07.906 [main] INFO  - In the MakeMyTrip Website
+11:24:09.024 [main] INFO  - Clicked on Cabs option
+11:24:11.442 [main] INFO  - Clicked on search button
+11:24:14.462 [main] INFO  - In cabs page
+11:24:14.732 [main] INFO  - Clicking more dropdown
+11:24:15.263 [main] INFO  - Clicking gift cards option
+11:24:17.381 [main] INFO  - Clicking on wedding giftcard
+11:24:18.742 [main] INFO  - Passing sender's name, mobile and email id
+11:24:20.250 [main] INFO  - Clicking on buy now option with invalid email address
+11:24:20.583 [main] INFO  - Capturing the error message displayed
+11:24:27.630 [main] INFO  - Going to makemytrip home page
+11:24:27.755 [main] INFO  - maximized window
+11:24:38.319 [main] INFO  - Going to makemytrip home page
+11:24:38.437 [main] INFO  - maximized window
+11:24:47.056 [main] INFO  - In the MakeMyTrip Website
+11:24:47.345 [main] INFO  - Clicking on hotels icon
+11:24:48.435 [main] INFO  - Clicking on upto 4 rooms option
+11:24:48.689 [main] INFO  - Clicking on rooms and guests dropdown
+11:24:49.134 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:25:35.762 [main] INFO  - Going to makemytrip home page
+11:25:35.891 [main] INFO  - maximized window
+11:25:46.633 [main] INFO  - In the MakeMyTrip Website
+11:25:47.768 [main] INFO  - Clicked on Cabs option
+11:25:51.951 [main] INFO  - Clicked on search button
+11:25:54.974 [main] INFO  - In cabs page
+11:25:55.211 [main] INFO  - Clicking more dropdown
+11:25:55.530 [main] INFO  - Clicking gift cards option
+11:25:57.838 [main] INFO  - Clicking on wedding giftcard
+11:25:59.168 [main] INFO  - Passing sender's name, mobile and email id
+11:26:00.685 [main] INFO  - Clicking on buy now option with valid email address
+11:26:29.815 [main] INFO  - Going to makemytrip home page
+11:26:29.951 [main] INFO  - maximized window
+11:26:40.446 [main] INFO  - In the MakeMyTrip Website
+11:26:41.611 [main] INFO  - Clicked on Cabs option
+11:26:43.492 [main] INFO  - Clicked one way outstation cab
+11:26:47.773 [main] INFO  - Selected Delhi
+11:26:51.704 [main] INFO  - Selected Manali
+11:26:52.393 [main] INFO  - Selected date
+11:26:53.900 [main] INFO  - Selected Time
+11:26:56.647 [main] INFO  - Clicked on search button
+11:26:59.666 [main] INFO  - In cabs page
+11:27:00.541 [main] INFO  - Selected low to highest price in the sort by dropdown
+11:27:01.178 [main] INFO  - Selected SUV Checkbox
+11:27:01.533 [main] INFO  - Printing lowest cab details : 
+11:27:09.384 [main] INFO  - Going to makemytrip home page
+11:27:09.513 [main] INFO  - maximized window
+11:27:21.752 [main] INFO  - Going to makemytrip home page
+11:27:21.879 [main] INFO  - maximized window
+11:27:33.602 [main] INFO  - Going to makemytrip home page
+11:27:33.724 [main] INFO  - maximized window
+11:27:43.051 [main] INFO  - In the MakeMyTrip Website
+11:27:43.382 [main] INFO  - Clicking on hotels icon
+11:27:44.483 [main] INFO  - Clicking on upto 4 rooms option
+11:27:44.805 [main] INFO  - Clicking on rooms and guests dropdown
+11:27:45.660 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+11:28:15.926 [main] INFO  - Going to makemytrip home page
+11:28:16.052 [main] INFO  - maximized window
+11:28:24.790 [main] INFO  - In the MakeMyTrip Website
+11:28:25.907 [main] INFO  - Clicked on Cabs option
+11:28:28.344 [main] INFO  - Clicked on search button
+11:28:31.356 [main] INFO  - In cabs page
+11:28:31.678 [main] INFO  - Clicking more dropdown
+11:28:32.225 [main] INFO  - Clicking gift cards option
+11:28:34.366 [main] INFO  - Clicking on wedding giftcard
+11:28:35.853 [main] INFO  - Passing sender's name, mobile and email id
+11:28:37.350 [main] INFO  - Clicking on buy now option with invalid email address
+11:28:37.645 [main] INFO  - Capturing the error message displayed
+11:28:44.742 [main] INFO  - Going to makemytrip home page
+11:28:44.871 [main] INFO  - maximized window
+11:29:04.096 [main] INFO  - In the MakeMyTrip Website
+11:29:04.429 [main] INFO  - Clicked on Cabs option
+11:29:06.427 [main] INFO  - Clicked on search button
+11:29:09.448 [main] INFO  - In cabs page
+11:29:09.672 [main] INFO  - Clicking more dropdown
+11:29:10.025 [main] INFO  - Clicking gift cards option
+11:29:12.681 [main] INFO  - Clicking on wedding giftcard
+11:29:14.368 [main] INFO  - Passing sender's name, mobile and email id
+11:29:16.116 [main] INFO  - Clicking on buy now option with valid email address
+13:47:50.879 [main] INFO  - Going to makemytrip home page
+13:47:51.014 [main] INFO  - maximized window
+13:48:03.644 [main] INFO  - Going to makemytrip home page
+13:48:03.759 [main] INFO  - maximized window
+13:48:14.820 [main] INFO  - In the MakeMyTrip Website
+13:48:15.979 [main] INFO  - Clicked on Cabs option
+13:48:21.202 [main] INFO  - Clicked on search button
+13:48:24.215 [main] INFO  - In cabs page
+13:48:24.509 [main] INFO  - Clicking more dropdown
+13:48:25.001 [main] INFO  - Clicking gift cards option
+13:48:27.928 [main] INFO  - Clicking on wedding giftcard
+13:48:29.543 [main] INFO  - Passing sender's name, mobile and email id
+13:48:31.204 [main] INFO  - Clicking on buy now option with invalid email address
+13:48:31.688 [main] INFO  - Capturing the error message displayed
+13:48:39.212 [main] INFO  - Going to makemytrip home page
+13:48:39.332 [main] INFO  - maximized window
+13:48:48.992 [main] INFO  - In the MakeMyTrip Website
+13:48:50.159 [main] INFO  - Clicked on Cabs option
+13:48:54.863 [main] INFO  - Clicked on search button
+13:48:57.883 [main] INFO  - In cabs page
+13:48:58.197 [main] INFO  - Clicking more dropdown
+13:48:58.721 [main] INFO  - Clicking gift cards option
+13:49:01.936 [main] INFO  - Clicking on wedding giftcard
+13:49:04.328 [main] INFO  - Passing sender's name, mobile and email id
+13:49:05.960 [main] INFO  - Clicking on buy now option with valid email address
+13:49:21.197 [main] INFO  - Going to makemytrip home page
+13:49:21.317 [main] INFO  - maximized window
+13:49:31.608 [main] INFO  - In the MakeMyTrip Website
+13:49:31.988 [main] INFO  - Clicking on hotels icon
+13:49:33.086 [main] INFO  - Clicking on upto 4 rooms option
+13:49:33.415 [main] INFO  - Clicking on rooms and guests dropdown
+13:49:33.948 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+13:50:15.299 [main] INFO  - Going to makemytrip home page
+13:50:15.436 [main] INFO  - maximized window
+13:50:26.092 [main] INFO  - In the MakeMyTrip Website
+13:50:27.306 [main] INFO  - Clicked on Cabs option
+13:50:29.300 [main] INFO  - Clicked one way outstation cab
+13:50:33.451 [main] INFO  - Selected Delhi
+13:50:37.458 [main] INFO  - Selected Manali
+13:50:38.668 [main] INFO  - Selected date
+13:50:40.475 [main] INFO  - Selected Time
+13:50:44.098 [main] INFO  - Clicked on search button
+13:50:47.121 [main] INFO  - In cabs page
+13:50:47.681 [main] INFO  - Selected low to highest price in the sort by dropdown
+13:50:48.176 [main] INFO  - Selected SUV Checkbox
+13:50:48.520 [main] INFO  - Printing lowest cab details : 
+13:50:55.916 [main] INFO  - Going to makemytrip home page
+13:50:56.050 [main] INFO  - maximized window
+13:51:06.089 [main] INFO  - In the MakeMyTrip Website
+13:51:07.228 [main] INFO  - Clicked on Cabs option
+13:51:11.026 [main] INFO  - Clicked on search button
+13:51:14.050 [main] INFO  - In cabs page
+13:51:14.366 [main] INFO  - Clicking more dropdown
+13:51:14.709 [main] INFO  - Clicking gift cards option
+13:51:16.973 [main] INFO  - Clicking on wedding giftcard
+13:51:18.453 [main] INFO  - Passing sender's name, mobile and email id
+13:51:20.115 [main] INFO  - Clicking on buy now option with valid email address
+13:52:52.862 [main] INFO  - Going to makemytrip home page
+13:52:52.997 [main] INFO  - maximized window
+13:53:04.187 [main] INFO  - Going to makemytrip home page
+13:53:04.324 [main] INFO  - maximized window
+13:53:14.708 [main] INFO  - In the MakeMyTrip Website
+13:53:15.849 [main] INFO  - Clicked on Cabs option
+13:53:21.255 [main] INFO  - Clicked on search button
+13:53:24.279 [main] INFO  - In cabs page
+13:53:24.585 [main] INFO  - Clicking more dropdown
+13:53:25.141 [main] INFO  - Clicking gift cards option
+13:53:27.929 [main] INFO  - Clicking on wedding giftcard
+13:53:36.436 [main] INFO  - Passing sender's name, mobile and email id
+13:53:38.252 [main] INFO  - Clicking on buy now option with invalid email address
+13:53:38.856 [main] INFO  - Capturing the error message displayed
+13:53:47.211 [main] INFO  - Going to makemytrip home page
+13:53:47.352 [main] INFO  - maximized window
+13:53:58.943 [main] INFO  - In the MakeMyTrip Website
+13:54:00.139 [main] INFO  - Clicked on Cabs option
+13:54:02.999 [main] INFO  - Clicked on search button
+13:54:06.013 [main] INFO  - In cabs page
+13:54:06.233 [main] INFO  - Clicking more dropdown
+13:54:06.578 [main] INFO  - Clicking gift cards option
+13:54:10.008 [main] INFO  - Clicking on wedding giftcard
+13:54:11.359 [main] INFO  - Passing sender's name, mobile and email id
+13:54:12.903 [main] INFO  - Clicking on buy now option with valid email address
+13:54:25.229 [main] INFO  - Going to makemytrip home page
+13:54:25.375 [main] INFO  - maximized window
+13:54:55.844 [main] INFO  - Going to makemytrip home page
+13:54:55.968 [main] INFO  - maximized window
+13:55:06.775 [main] INFO  - In the MakeMyTrip Website
+13:55:07.955 [main] INFO  - Clicked on Cabs option
+13:55:09.564 [main] INFO  - Clicked one way outstation cab
+13:55:13.769 [main] INFO  - Selected Delhi
+13:55:17.493 [main] INFO  - Selected Manali
+13:55:18.381 [main] INFO  - Selected date
+13:55:19.851 [main] INFO  - Selected Time
+13:55:33.255 [main] INFO  - Going to makemytrip home page
+13:55:33.385 [main] INFO  - maximized window
+13:55:44.857 [main] INFO  - Going to makemytrip home page
+13:55:44.998 [main] INFO  - maximized window
+13:55:56.475 [main] INFO  - In the MakeMyTrip Website
+13:55:57.692 [main] INFO  - Clicked on Cabs option
+13:56:01.164 [main] INFO  - Clicked on search button
+13:56:04.182 [main] INFO  - In cabs page
+13:56:04.454 [main] INFO  - Clicking more dropdown
+13:56:05.020 [main] INFO  - Clicking gift cards option
+13:56:07.727 [main] INFO  - Clicking on wedding giftcard
+13:56:09.414 [main] INFO  - Passing sender's name, mobile and email id
+13:56:11.120 [main] INFO  - Clicking on buy now option with valid email address
+13:56:23.020 [main] INFO  - Going to makemytrip home page
+13:56:23.157 [main] INFO  - maximized window
+13:56:33.674 [main] INFO  - In the MakeMyTrip Website
+13:56:34.138 [main] INFO  - Clicking on hotels icon
+13:56:35.139 [main] INFO  - Clicking on upto 4 rooms option
+13:56:35.498 [main] INFO  - Clicking on rooms and guests dropdown
+13:56:35.999 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+13:56:58.203 [main] INFO  - Going to makemytrip home page
+13:56:58.337 [main] INFO  - maximized window
+13:57:03.469 [main] INFO  - Going to makemytrip home page
+13:57:03.596 [main] INFO  - maximized window
+13:57:21.874 [main] INFO  - Going to makemytrip home page
+13:57:22.016 [main] INFO  - maximized window
+13:57:32.682 [main] INFO  - Going to makemytrip home page
+13:57:32.809 [main] INFO  - maximized window
+13:57:43.210 [main] INFO  - In the MakeMyTrip Website
+13:57:44.337 [main] INFO  - Clicked on Cabs option
+13:57:48.604 [main] INFO  - Clicked on search button
+13:57:51.628 [main] INFO  - In cabs page
+13:57:51.889 [main] INFO  - Clicking more dropdown
+13:57:52.245 [main] INFO  - Clicking gift cards option
+13:57:55.352 [main] INFO  - Clicking on wedding giftcard
+13:57:57.083 [main] INFO  - Passing sender's name, mobile and email id
+13:57:58.769 [main] INFO  - Clicking on buy now option with invalid email address
+13:57:59.166 [main] INFO  - Capturing the error message displayed
+13:58:23.734 [main] INFO  - Going to makemytrip home page
+13:58:23.873 [main] INFO  - maximized window
+13:58:38.263 [main] INFO  - In the MakeMyTrip Website
+13:59:39.101 [main] INFO  - Going to makemytrip home page
+13:59:39.240 [main] INFO  - maximized window
+13:59:49.685 [main] INFO  - In the MakeMyTrip Website
+13:59:50.886 [main] INFO  - Clicked on Cabs option
+13:59:52.672 [main] INFO  - Clicked one way outstation cab
+13:59:56.838 [main] INFO  - Selected Delhi
+14:00:00.791 [main] INFO  - Selected Manali
+14:00:01.933 [main] INFO  - Selected date
+14:00:03.734 [main] INFO  - Selected Time
+14:00:06.950 [main] INFO  - Clicked on search button
+14:00:09.968 [main] INFO  - In cabs page
+14:00:10.521 [main] INFO  - Selected low to highest price in the sort by dropdown
+14:00:10.952 [main] INFO  - Selected SUV Checkbox
+14:00:11.257 [main] INFO  - Printing lowest cab details : 
+16:46:46.315 [main] INFO  - Clicking on the cab option
+16:46:48.335 [main] INFO  - Clicking Search Button
+16:46:59.094 [main] INFO  - Clicking more dropdown
+16:48:50.256 [main] INFO  - Clicking on the cab option
+16:48:52.497 [main] INFO  - Clicking Search Button
+16:49:03.323 [main] INFO  - Clicking more dropdown
+16:49:14.321 [main] INFO  - Clicking gift cards option
+16:49:25.226 [main] INFO  - Clicking on wedding giftcard
+16:50:54.897 [main] INFO  - Clicking on the cab option
+16:50:56.041 [main] INFO  - Clicked on Cabs option
+16:50:58.356 [main] INFO  - Clicking on the cab option
+16:50:58.547 [main] INFO  - Clicked one way outstation cab
+16:50:59.105 [main] INFO  - Selecting From
+16:51:02.918 [main] INFO  - Selected Delhi
+16:51:03.304 [main] INFO  - Selecting To
+16:51:06.659 [main] INFO  - Selected Manali
+16:51:07.097 [main] INFO  - Selecting Date
+16:51:07.543 [main] INFO  - Selected date
+16:51:07.997 [main] INFO  - Selecting Time
+16:51:09.304 [main] INFO  - Selected Time
+16:51:09.692 [main] INFO  - Clicking Search Button
+16:51:13.228 [main] INFO  - Clicked on search button
+16:51:16.259 [main] INFO  - In cabs page
+16:51:16.640 [main] INFO  - Selecting low to highest price in the sort by dropdown
+16:51:20.974 [main] INFO  - Selected low to highest price in the sort by dropdown
+16:51:21.203 [main] INFO  - Selecting SUV Checkbox
+16:51:21.437 [main] INFO  - Selected SUV Checkbox
+16:51:21.764 [main] INFO  - Printing lowest cab details : 
+16:51:39.865 [main] INFO  - Clicking on the cab option
+16:51:41.005 [main] INFO  - Clicked on Cabs option
+16:51:41.500 [main] INFO  - Clicking Search Button
+16:51:43.913 [main] INFO  - Clicked on search button
+16:51:46.929 [main] INFO  - In cabs page
+16:51:47.226 [main] INFO  - Clicking more dropdown
+16:51:47.396 [main] INFO  - Clicked on more dropdown
+16:51:47.654 [main] INFO  - Clicking gift cards option
+16:51:50.926 [main] INFO  - Clicked gift cards option
+16:51:51.142 [main] INFO  - Clicking on wedding giftcard
+16:51:52.771 [main] INFO  - In wedding giftcard page
+16:51:53.004 [main] INFO  - Passing sender's name, mobile and email id
+16:51:54.575 [main] INFO  - Clicking on buy now option with invalid email address
+16:51:54.725 [main] INFO  - Clicked on buy now option with invalid email address
+16:51:54.940 [main] INFO  - Capturing the error message displayed
+16:52:15.263 [main] INFO  - Clicking on the cab option
+16:52:16.473 [main] INFO  - Clicked on Cabs option
+16:52:16.925 [main] INFO  - Clicking Search Button
+16:52:19.884 [main] INFO  - Clicked on search button
+16:52:22.894 [main] INFO  - In cabs page
+16:52:23.157 [main] INFO  - Clicking more dropdown
+16:52:23.301 [main] INFO  - Clicked on more dropdown
+16:52:23.624 [main] INFO  - Clicking gift cards option
+16:52:26.879 [main] INFO  - Clicked gift cards option
+16:52:27.073 [main] INFO  - Clicking on wedding giftcard
+16:52:28.251 [main] INFO  - In wedding giftcard page
+16:52:28.527 [main] INFO  - Passing sender's name, mobile and email id
+16:52:30.149 [main] INFO  - Clicking on buy now option with valid email address
+16:52:52.822 [main] INFO  - Clicking on hotels icon
+16:52:53.956 [main] INFO  - Navigated to hotels page successfully
+16:52:54.291 [main] INFO  - Clicking on upto 4 rooms option
+16:52:54.417 [main] INFO  - Clicked on upto 4 rooms option
+16:52:54.690 [main] INFO  - Clicking on rooms and guests dropdown
+16:52:55.858 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+16:56:09.307 [main] INFO  - Going to makemytrip home page
+16:56:09.444 [main] INFO  - maximized window
+16:56:20.849 [main] INFO  - Going to makemytrip home page
+16:56:20.986 [main] INFO  - maximized window
+16:56:32.143 [main] INFO  - Going to makemytrip home page
+16:56:32.280 [main] INFO  - maximized window
+16:56:41.678 [main] INFO  - In the MakeMyTrip Website
+16:56:42.908 [main] INFO  - Clicked on Cabs option
+16:56:47.364 [main] INFO  - Clicked on search button
+16:56:50.395 [main] INFO  - In cabs page
+16:56:50.732 [main] INFO  - Clicking more dropdown
+16:56:51.267 [main] INFO  - Clicking gift cards option
+16:56:53.835 [main] INFO  - Clicking on wedding giftcard
+16:56:55.507 [main] INFO  - Passing sender's name, mobile and email id
+16:56:57.137 [main] INFO  - Clicking on buy now option with valid email address
+16:57:11.785 [main] INFO  - Going to makemytrip home page
+16:57:11.927 [main] INFO  - maximized window
+16:57:21.435 [main] INFO  - In the MakeMyTrip Website
+16:57:21.865 [main] INFO  - Clicking on hotels icon
+16:57:23.013 [main] INFO  - Clicking on upto 4 rooms option
+16:57:23.366 [main] INFO  - Clicking on rooms and guests dropdown
+16:57:23.926 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+16:58:31.079 [main] INFO  - Going to makemytrip home page
+16:58:31.204 [main] INFO  - maximized window
+16:58:42.860 [main] INFO  - Going to makemytrip home page
+16:58:43.001 [main] INFO  - maximized window
+16:59:05.438 [main] INFO  - Going to makemytrip home page
+16:59:05.584 [main] INFO  - maximized window
+16:59:17.484 [main] INFO  - Going to makemytrip home page
+16:59:17.623 [main] INFO  - maximized window
+16:59:56.585 [main] INFO  - Going to makemytrip home page
+16:59:56.720 [main] INFO  - maximized window
+17:00:08.373 [main] INFO  - Going to makemytrip home page
+17:00:08.504 [main] INFO  - maximized window
+17:01:01.507 [main] INFO  - Going to makemytrip home page
+17:01:01.646 [main] INFO  - maximized window
+17:01:12.367 [main] INFO  - Going to makemytrip home page
+17:01:12.504 [main] INFO  - maximized window
+17:01:48.219 [main] INFO  - Going to makemytrip home page
+17:01:48.355 [main] INFO  - maximized window
+17:01:59.001 [main] INFO  - In the MakeMyTrip Website
+17:02:00.167 [main] INFO  - Clicked on Cabs option
+17:02:02.438 [main] INFO  - Clicked one way outstation cab
+17:02:06.675 [main] INFO  - Selected Delhi
+17:02:10.427 [main] INFO  - Selected Manali
+17:02:11.343 [main] INFO  - Selected date
+17:02:12.909 [main] INFO  - Selected Time
+17:02:14.947 [main] INFO  - Clicked on search button
+17:02:17.965 [main] INFO  - In cabs page
+17:02:18.428 [main] INFO  - Selected low to highest price in the sort by dropdown
+17:02:18.800 [main] INFO  - Selected SUV Checkbox
+17:02:19.043 [main] INFO  - Printing lowest cab details : 
+17:02:26.467 [main] INFO  - Going to makemytrip home page
+17:02:26.598 [main] INFO  - maximized window
+17:02:58.429 [main] INFO  - Going to makemytrip home page
+17:02:58.563 [main] INFO  - maximized window
+17:03:08.718 [main] INFO  - In the MakeMyTrip Website
+17:03:09.826 [main] INFO  - Clicked on Cabs option
+17:03:12.768 [main] INFO  - Clicked on search button
+17:03:15.796 [main] INFO  - In cabs page
+17:03:16.177 [main] INFO  - Clicking more dropdown
+17:03:16.787 [main] INFO  - Clicking gift cards option
+17:03:19.878 [main] INFO  - Clicking on wedding giftcard
+17:03:21.457 [main] INFO  - Passing sender's name, mobile and email id
+17:03:23.077 [main] INFO  - Clicking on buy now option with invalid email address
+17:03:23.446 [main] INFO  - Capturing the error message displayed
+17:04:05.882 [main] INFO  - Going to makemytrip home page
+17:04:06.024 [main] INFO  - maximized window
+17:04:18.315 [main] INFO  - Going to makemytrip home page
+17:04:18.459 [main] INFO  - maximized window
+17:04:30.482 [main] INFO  - Going to makemytrip home page
+17:04:30.619 [main] INFO  - maximized window
+17:04:37.075 [main] INFO  - In the MakeMyTrip Website
+17:04:45.159 [main] INFO  - Going to makemytrip home page
+17:04:45.287 [main] INFO  - maximized window
+17:04:56.057 [main] INFO  - In the MakeMyTrip Website
+17:04:56.469 [main] INFO  - Clicking on hotels icon
+17:04:59.178 [main] INFO  - Clicking on upto 4 rooms option
+17:04:59.903 [main] INFO  - Clicking on rooms and guests dropdown
+17:05:00.860 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+17:05:27.359 [main] INFO  - Going to makemytrip home page
+17:05:27.504 [main] INFO  - maximized window
+17:05:38.794 [main] INFO  - Going to makemytrip home page
+17:05:38.922 [main] INFO  - maximized window
+17:05:50.156 [main] INFO  - Going to makemytrip home page
+17:05:50.278 [main] INFO  - maximized window
+17:06:00.367 [main] INFO  - In the MakeMyTrip Website
+17:06:01.493 [main] INFO  - Clicked on Cabs option
+17:06:05.205 [main] INFO  - Clicked on search button
+17:06:08.234 [main] INFO  - In cabs page
+17:06:08.572 [main] INFO  - Clicking more dropdown
+17:06:08.963 [main] INFO  - Clicking gift cards option
+17:06:11.160 [main] INFO  - Clicking on wedding giftcard
+17:06:12.554 [main] INFO  - Passing sender's name, mobile and email id
+17:06:14.169 [main] INFO  - Clicking on buy now option with valid email address
+17:06:27.261 [main] INFO  - Going to makemytrip home page
+17:06:27.387 [main] INFO  - maximized window
+17:06:59.433 [main] INFO  - Going to makemytrip home page
+17:06:59.558 [main] INFO  - maximized window
+17:07:06.586 [main] INFO  - In the MakeMyTrip Website
+17:07:15.943 [main] INFO  - Going to makemytrip home page
+17:07:16.081 [main] INFO  - maximized window
+17:07:27.202 [main] INFO  - Going to makemytrip home page
+17:07:27.318 [main] INFO  - maximized window
+17:07:46.599 [main] INFO  - Going to makemytrip home page
+17:07:46.724 [main] INFO  - maximized window
+17:07:55.802 [main] INFO  - In the MakeMyTrip Website
+17:07:56.967 [main] INFO  - Clicked on Cabs option
+17:07:58.008 [main] INFO  - Clicked one way outstation cab
+17:08:01.823 [main] INFO  - Selected Delhi
+17:08:05.318 [main] INFO  - Selected Manali
+17:08:05.885 [main] INFO  - Selected date
+17:08:06.608 [main] INFO  - Selected Time
+17:08:08.182 [main] INFO  - Clicked on search button
+17:08:11.205 [main] INFO  - In cabs page
+17:08:11.555 [main] INFO  - Selected low to highest price in the sort by dropdown
+17:08:11.845 [main] INFO  - Selected SUV Checkbox
+17:08:12.026 [main] INFO  - Printing lowest cab details : 
+17:08:19.385 [main] INFO  - Going to makemytrip home page
+17:08:19.515 [main] INFO  - maximized window
+17:08:30.194 [main] INFO  - In the MakeMyTrip Website
+17:08:31.358 [main] INFO  - Clicked on Cabs option
+17:08:33.755 [main] INFO  - Clicked on search button
+17:08:36.779 [main] INFO  - In cabs page
+17:08:36.938 [main] INFO  - Clicking more dropdown
+17:08:37.191 [main] INFO  - Clicking gift cards option
+17:08:39.368 [main] INFO  - Clicking on wedding giftcard
+17:08:41.258 [main] INFO  - Passing sender's name, mobile and email id
+17:08:42.714 [main] INFO  - Clicking on buy now option with invalid email address
+17:08:42.977 [main] INFO  - Capturing the error message displayed
+17:08:49.859 [main] INFO  - Going to makemytrip home page
+17:08:49.976 [main] INFO  - maximized window
+17:08:59.872 [main] INFO  - In the MakeMyTrip Website
+17:09:00.200 [main] INFO  - Clicking on hotels icon
+17:09:01.240 [main] INFO  - Clicking on upto 4 rooms option
+17:09:01.491 [main] INFO  - Clicking on rooms and guests dropdown
+17:09:01.919 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+17:09:36.886 [main] INFO  - Going to makemytrip home page
+17:09:37.012 [main] INFO  - maximized window
+17:09:47.674 [main] INFO  - Going to makemytrip home page
+17:09:47.792 [main] INFO  - maximized window
+17:09:56.631 [main] INFO  - In the MakeMyTrip Website
+17:09:57.739 [main] INFO  - Clicked on Cabs option
+17:10:00.302 [main] INFO  - Clicked on search button
+17:10:03.325 [main] INFO  - In cabs page
+17:10:03.567 [main] INFO  - Clicking more dropdown
+17:10:03.873 [main] INFO  - Clicking gift cards option
+17:10:06.228 [main] INFO  - Clicking on wedding giftcard
+17:10:07.566 [main] INFO  - Passing sender's name, mobile and email id
+17:10:09.067 [main] INFO  - Clicking on buy now option with invalid email address
+17:10:09.357 [main] INFO  - Capturing the error message displayed
+17:10:16.936 [main] INFO  - Going to makemytrip home page
+17:10:17.071 [main] INFO  - maximized window
+17:10:27.481 [main] INFO  - In the MakeMyTrip Website
+17:10:28.601 [main] INFO  - Clicked on Cabs option
+17:10:33.095 [main] INFO  - Clicked on search button
+17:10:36.110 [main] INFO  - In cabs page
+17:10:36.322 [main] INFO  - Clicking more dropdown
+17:10:36.632 [main] INFO  - Clicking gift cards option
+17:10:38.632 [main] INFO  - Clicking on wedding giftcard
+17:10:39.767 [main] INFO  - Passing sender's name, mobile and email id
+17:10:41.224 [main] INFO  - Clicking on buy now option with valid email address
+17:10:52.141 [main] INFO  - Going to makemytrip home page
+17:10:52.252 [main] INFO  - maximized window
+17:11:01.264 [main] INFO  - In the MakeMyTrip Website
+17:11:01.568 [main] INFO  - Clicking on hotels icon
+17:11:02.642 [main] INFO  - Clicking on upto 4 rooms option
+17:11:02.897 [main] INFO  - Clicking on rooms and guests dropdown
+17:11:03.382 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+17:11:53.853 [main] INFO  - Going to makemytrip home page
+17:11:53.977 [main] INFO  - maximized window
+17:12:23.546 [main] INFO  - Going to makemytrip home page

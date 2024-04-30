@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-26T09:58:51 IST" name="Failed suite [Suite]" finished-at="2024-04-26T09:59:15 IST" duration-ms="23773">
+    <groups>
+      <group name="regression">
+        <method signature="TC_04_Hotels_Section.click_on_hotels_icon()[pri:1, instance:TestCases.TC_04_Hotels_Section@304bb45b]" name="click_on_hotels_icon" class="TestCases.TC_04_Hotels_Section"/>
+        <method signature="TC_04_Hotels_Section.click_on_upto4rooms()[pri:2, instance:TestCases.TC_04_Hotels_Section@304bb45b]" name="click_on_upto4rooms" class="TestCases.TC_04_Hotels_Section"/>
+        <method signature="TC_04_Hotels_Section.click_on_roomsandguests()[pri:3, instance:TestCases.TC_04_Hotels_Section@304bb45b]" name="click_on_roomsandguests" class="TestCases.TC_04_Hotels_Section"/>
+        <method signature="TC_04_Hotels_Section.click_on_adultsdropdown_printallnumbers()[pri:4, instance:TestCases.TC_04_Hotels_Section@304bb45b]" name="click_on_adultsdropdown_printallnumbers" class="TestCases.TC_04_Hotels_Section"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2024-04-26T09:58:51 IST" name="Test1(failed)" finished-at="2024-04-26T09:59:15 IST" duration-ms="23773">
+      <class name="TestCases.TC_04_Hotels_Section">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC_04_Hotels_Section@304bb45b]" started-at="2024-04-26T09:58:52 IST" name="setup" finished-at="2024-04-26T09:59:05 IST" duration-ms="13201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="click_on_hotels_icon()[pri:1, instance:TestCases.TC_04_Hotels_Section@304bb45b]" started-at="2024-04-26T09:59:05 IST" name="click_on_hotels_icon" finished-at="2024-04-26T09:59:07 IST" duration-ms="2051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_hotels_icon -->
+        <test-method signature="click_on_upto4rooms()[pri:2, instance:TestCases.TC_04_Hotels_Section@304bb45b]" started-at="2024-04-26T09:59:07 IST" name="click_on_upto4rooms" finished-at="2024-04-26T09:59:07 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_upto4rooms -->
+        <test-method signature="click_on_roomsandguests()[pri:3, instance:TestCases.TC_04_Hotels_Section@304bb45b]" started-at="2024-04-26T09:59:08 IST" name="click_on_roomsandguests" finished-at="2024-04-26T09:59:08 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_roomsandguests -->
+        <test-method signature="click_on_adultsdropdown_printallnumbers()[pri:4, instance:TestCases.TC_04_Hotels_Section@304bb45b]" started-at="2024-04-26T09:59:08 IST" name="click_on_adultsdropdown_printallnumbers" finished-at="2024-04-26T09:59:12 IST" duration-ms="3472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_adultsdropdown_printallnumbers -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC_04_Hotels_Section@304bb45b]" started-at="2024-04-26T09:59:12 IST" name="tearDown" finished-at="2024-04-26T09:59:15 IST" duration-ms="3235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC_04_Hotels_Section -->
+    </test> <!-- Test1(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>

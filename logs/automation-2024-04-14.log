@@ -1,0 +1,778 @@
+14:02:26.219 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:26.253 [main] DEBUG - Save content types part
+14:02:26.254 [main] DEBUG - Save package relationships
+14:02:26.256 [main] DEBUG - Save part 'docProps/app.xml'
+14:02:26.256 [main] DEBUG - Save part 'docProps/core.xml'
+14:02:26.257 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:02:26.258 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:02:26.258 [main] DEBUG - Save part 'xl/styles.xml'
+14:02:26.259 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:02:26.259 [main] DEBUG - Save part 'xl/workbook.xml'
+14:02:26.261 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:02:26.261 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:02:26.261 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:02:26.263 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:02:26.263 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:02:26.411 [main] INFO  - Clicking more dropdown
+14:02:26.545 [main] INFO  - Clicked on more dropdown
+14:02:26.549 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:26.551 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:02:26.552 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:02:26.563 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:26.611 [main] DEBUG - Save content types part
+14:02:26.613 [main] DEBUG - Save package relationships
+14:02:26.615 [main] DEBUG - Save part 'docProps/app.xml'
+14:02:26.615 [main] DEBUG - Save part 'docProps/core.xml'
+14:02:26.617 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:02:26.617 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:02:26.618 [main] DEBUG - Save part 'xl/styles.xml'
+14:02:26.618 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:02:26.619 [main] DEBUG - Save part 'xl/workbook.xml'
+14:02:26.621 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:02:26.622 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:02:26.623 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:02:26.626 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:02:26.626 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:02:26.817 [main] INFO  - Clicking gift cards option
+14:02:29.633 [main] INFO  - Clicked gift cards option
+14:02:29.636 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:29.636 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:02:29.637 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:02:29.642 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:29.658 [main] DEBUG - Save content types part
+14:02:29.659 [main] DEBUG - Save package relationships
+14:02:29.660 [main] DEBUG - Save part 'docProps/app.xml'
+14:02:29.660 [main] DEBUG - Save part 'docProps/core.xml'
+14:02:29.661 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:02:29.661 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:02:29.661 [main] DEBUG - Save part 'xl/styles.xml'
+14:02:29.662 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:02:29.662 [main] DEBUG - Save part 'xl/workbook.xml'
+14:02:29.663 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:02:29.664 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:02:29.664 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:02:29.665 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:02:29.665 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:02:29.833 [main] INFO  - Clicking on wedding giftcard
+14:02:33.309 [main] INFO  - In wedding giftcard page
+14:02:33.312 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:33.312 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:02:33.313 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:02:33.318 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:33.335 [main] DEBUG - Save content types part
+14:02:33.336 [main] DEBUG - Save package relationships
+14:02:33.337 [main] DEBUG - Save part 'docProps/app.xml'
+14:02:33.338 [main] DEBUG - Save part 'docProps/core.xml'
+14:02:33.339 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:02:33.340 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:02:33.340 [main] DEBUG - Save part 'xl/styles.xml'
+14:02:33.341 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:02:33.341 [main] DEBUG - Save part 'xl/workbook.xml'
+14:02:33.342 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:02:33.343 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:02:33.343 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:02:33.345 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:02:33.345 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:02:33.618 [main] INFO  - Passing sender's name, mobile and email id
+14:02:35.063 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:02:35.063 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:02:35.063 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:02:35.069 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:02:35.086 [main] DEBUG - Save content types part
+14:02:35.087 [main] DEBUG - Save package relationships
+14:02:35.088 [main] DEBUG - Save part 'docProps/app.xml'
+14:02:35.089 [main] DEBUG - Save part 'docProps/core.xml'
+14:02:35.090 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:02:35.091 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:02:35.091 [main] DEBUG - Save part 'xl/styles.xml'
+14:02:35.092 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:02:35.092 [main] DEBUG - Save part 'xl/workbook.xml'
+14:02:35.093 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:02:35.093 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:02:35.094 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:02:35.096 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:02:35.096 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:02:35.268 [main] INFO  - Clicking on buy now option with valid email address
+14:03:03.984 [main] INFO  - Clicking on hotels icon
+14:03:05.128 [main] INFO  - Navigated to hotels page successfully
+14:03:05.131 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:05.132 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:03:05.132 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:03:05.138 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:03:05.153 [main] DEBUG - Save content types part
+14:03:05.154 [main] DEBUG - Save package relationships
+14:03:05.155 [main] DEBUG - Save part 'docProps/app.xml'
+14:03:05.155 [main] DEBUG - Save part 'docProps/core.xml'
+14:03:05.156 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:03:05.156 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:03:05.156 [main] DEBUG - Save part 'xl/styles.xml'
+14:03:05.157 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:03:05.157 [main] DEBUG - Save part 'xl/workbook.xml'
+14:03:05.157 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:03:05.158 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:03:05.158 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:03:05.159 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:03:05.159 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:03:05.491 [main] INFO  - Clicking on upto 4 rooms option
+14:03:05.596 [main] INFO  - Clicked on upto 4 rooms option
+14:03:05.600 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:05.601 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:03:05.601 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:03:05.608 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:03:05.626 [main] DEBUG - Save content types part
+14:03:05.627 [main] DEBUG - Save package relationships
+14:03:05.628 [main] DEBUG - Save part 'docProps/app.xml'
+14:03:05.628 [main] DEBUG - Save part 'docProps/core.xml'
+14:03:05.629 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:03:05.629 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:03:05.630 [main] DEBUG - Save part 'xl/styles.xml'
+14:03:05.630 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:03:05.630 [main] DEBUG - Save part 'xl/workbook.xml'
+14:03:05.631 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:03:05.631 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:03:05.632 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:03:05.634 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:03:05.634 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:03:05.843 [main] INFO  - Clicking on rooms and guests dropdown
+14:03:06.243 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:06.244 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:03:06.245 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:03:06.252 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:03:06.276 [main] DEBUG - Save content types part
+14:03:06.277 [main] DEBUG - Save package relationships
+14:03:06.277 [main] DEBUG - Save part 'docProps/app.xml'
+14:03:06.278 [main] DEBUG - Save part 'docProps/core.xml'
+14:03:06.278 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:03:06.279 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:03:06.279 [main] DEBUG - Save part 'xl/styles.xml'
+14:03:06.280 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:03:06.280 [main] DEBUG - Save part 'xl/workbook.xml'
+14:03:06.281 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:03:06.281 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:03:06.281 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:03:06.283 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:03:06.283 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:03:06.589 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+14:03:10.141 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:03:10.142 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:03:10.142 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:03:10.150 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:03:10.175 [main] DEBUG - Save content types part
+14:03:10.176 [main] DEBUG - Save package relationships
+14:03:10.177 [main] DEBUG - Save part 'docProps/app.xml'
+14:03:10.177 [main] DEBUG - Save part 'docProps/core.xml'
+14:03:10.178 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:03:10.178 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:03:10.179 [main] DEBUG - Save part 'xl/styles.xml'
+14:03:10.179 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:03:10.179 [main] DEBUG - Save part 'xl/workbook.xml'
+14:03:10.180 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:03:10.180 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:03:10.181 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:03:10.182 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:03:10.183 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:04:24.376 [main] INFO  - Going to makemytrip home page
+14:04:24.517 [main] INFO  - maximized window
+14:04:35.783 [main] INFO  - Going to makemytrip home page
+14:04:35.922 [main] INFO  - maximized window
+14:04:45.148 [main] INFO  - In the MakeMyTrip Website
+14:04:46.377 [main] INFO  - Clicked on Cabs option
+14:04:46.566 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:04:46.573 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:04:46.576 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:04:46.879 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:04:46.884 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:04:46.885 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:04:46.885 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:04:46.886 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:04:46.888 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:04:46.903 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:04:46.904 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:04:46.910 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:04:46.912 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:04:46.914 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:04:46.916 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:04:46.918 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:04:46.920 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+14:04:46.995 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:04:46.995 [main] TRACE - Resolving type for handle themefd26doctype
+14:04:47.091 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+14:04:47.111 [main] TRACE - Resolving type for handle ctstylesheet4257type
+14:04:47.116 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+14:04:47.120 [main] TRACE - Resolving type for handle ctfonts6623type
+14:04:47.123 [main] TRACE - Resolving type for handle ctfont14d8type
+14:04:47.131 [main] TRACE - Resolving type for handle ctfills2c6ftype
+14:04:47.135 [main] TRACE - Resolving type for handle ctfill550ctype
+14:04:47.140 [main] TRACE - Resolving type for handle ctborders0d66type
+14:04:47.143 [main] TRACE - Resolving type for handle ctborderf935type
+14:04:47.147 [main] TRACE - Resolving type for handle ctcellxfs1322type
+14:04:47.149 [main] TRACE - Resolving type for handle ctxf97f7type
+14:04:47.153 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+14:04:47.156 [main] TRACE - Resolving type for handle ctdxfsb26atype
+14:04:47.160 [main] TRACE - Resolving type for handle cttablestyles872ftype
+14:04:47.165 [main] TRACE - Resolving type for handle sstf81fdoctype
+14:04:47.177 [main] TRACE - Resolving type for handle ctsst44f3type
+14:04:47.209 [main] TRACE - Resolving type for handle ctrsta472type
+14:04:47.277 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:04:47.278 [main] TRACE - Resolving type for handle workbookec17doctype
+14:04:47.288 [main] TRACE - Resolving type for handle ctworkbook83c3type
+14:04:47.294 [main] TRACE - Resolving type for handle ctsheets49fdtype
+14:04:47.297 [main] TRACE - Resolving type for handle ctsheet4dbetype
+14:04:47.300 [main] TRACE - Resolving type for handle strelationshipid1e94type
+14:04:47.304 [main] TRACE - Resolving type for handle worksheetf539doctype
+14:04:47.313 [main] TRACE - Resolving type for handle ctworksheet530dtype
+14:04:47.328 [main] TRACE - Resolving type for handle ctcols627ctype
+14:04:47.337 [main] TRACE - Resolving type for handle ctsheetdata8408type
+14:04:47.342 [main] TRACE - Resolving type for handle ctrowdd39type
+14:04:47.349 [main] TRACE - Resolving type for handle ctcell842btype
+14:04:47.359 [main] TRACE - Resolving type for handle stcellrefe4e0type
+14:04:47.381 [main] TRACE - Resolving type for handle ctcola95ftype
+14:04:47.467 [main] TRACE - Resolving type for handle stxstringf179type
+14:04:47.479 [main] TRACE - Resolving type for handle stcelltypebf95type
+14:04:47.512 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+14:04:47.522 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+14:04:47.526 [main] TRACE - Resolving type for handle stref90a2type
+14:04:47.591 [main] TRACE - Resolving type for handle propertiesee84doctype
+14:04:47.593 [main] TRACE - Resolving type for handle ctproperties3f10type
+14:04:47.601 [main] TRACE - Resolving type for handle properties288cdoctype
+14:04:47.603 [main] TRACE - Resolving type for handle ctproperties2c18type
+14:04:47.620 [main] DEBUG - Save content types part
+14:04:47.753 [main] DEBUG - Save package relationships
+14:04:47.759 [main] DEBUG - Save part 'docProps/app.xml'
+14:04:47.759 [main] DEBUG - Save part 'docProps/core.xml'
+14:04:47.765 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:04:47.766 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:04:47.767 [main] DEBUG - Save part 'xl/styles.xml'
+14:04:47.767 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:04:47.768 [main] DEBUG - Save part 'xl/workbook.xml'
+14:04:47.772 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:04:47.773 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:04:47.773 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:04:47.779 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:04:47.779 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:04:51.560 [main] INFO  - Clicked on search button
+14:04:54.582 [main] INFO  - In cabs page
+14:04:54.590 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:04:54.591 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:04:54.592 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:04:54.615 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:04:54.665 [main] DEBUG - Save content types part
+14:04:54.667 [main] DEBUG - Save package relationships
+14:04:54.669 [main] DEBUG - Save part 'docProps/app.xml'
+14:04:54.669 [main] DEBUG - Save part 'docProps/core.xml'
+14:04:54.670 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:04:54.671 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:04:54.671 [main] DEBUG - Save part 'xl/styles.xml'
+14:04:54.671 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:04:54.672 [main] DEBUG - Save part 'xl/workbook.xml'
+14:04:54.673 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:04:54.673 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:04:54.674 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:04:54.675 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:04:54.676 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:04:54.841 [main] INFO  - Clicking more dropdown
+14:04:54.943 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:04:54.945 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:04:54.945 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:04:54.962 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:04:55.027 [main] DEBUG - Save content types part
+14:04:55.029 [main] DEBUG - Save package relationships
+14:04:55.030 [main] DEBUG - Save part 'docProps/app.xml'
+14:04:55.031 [main] DEBUG - Save part 'docProps/core.xml'
+14:04:55.034 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:04:55.035 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:04:55.035 [main] DEBUG - Save part 'xl/styles.xml'
+14:04:55.036 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:04:55.036 [main] DEBUG - Save part 'xl/workbook.xml'
+14:04:55.038 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:04:55.039 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:04:55.039 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:04:55.042 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:04:55.042 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:04:55.243 [main] INFO  - Clicking gift cards option
+14:04:58.116 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:04:58.117 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:04:58.118 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:04:58.132 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:04:58.199 [main] DEBUG - Save content types part
+14:04:58.202 [main] DEBUG - Save package relationships
+14:04:58.205 [main] DEBUG - Save part 'docProps/app.xml'
+14:04:58.206 [main] DEBUG - Save part 'docProps/core.xml'
+14:04:58.208 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:04:58.209 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:04:58.209 [main] DEBUG - Save part 'xl/styles.xml'
+14:04:58.210 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:04:58.210 [main] DEBUG - Save part 'xl/workbook.xml'
+14:04:58.212 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:04:58.213 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:04:58.213 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:04:58.215 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:04:58.216 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:04:58.428 [main] INFO  - Clicking on wedding giftcard
+14:05:01.042 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:01.044 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:01.046 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:01.059 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:01.102 [main] DEBUG - Save content types part
+14:05:01.104 [main] DEBUG - Save package relationships
+14:05:01.106 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:01.107 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:01.110 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:01.110 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:01.111 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:01.112 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:01.113 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:01.117 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:01.118 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:01.118 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:01.122 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:01.123 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:01.398 [main] INFO  - Passing sender's name, mobile and email id
+14:05:02.858 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:02.858 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:02.859 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:02.870 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:02.908 [main] DEBUG - Save content types part
+14:05:02.910 [main] DEBUG - Save package relationships
+14:05:02.912 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:02.913 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:02.916 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:02.917 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:02.918 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:02.918 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:02.919 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:02.920 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:02.920 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:02.921 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:02.923 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:02.923 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:03.082 [main] INFO  - Clicking on buy now option with invalid email address
+14:05:03.255 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:03.256 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:03.258 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:03.266 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:03.301 [main] DEBUG - Save content types part
+14:05:03.302 [main] DEBUG - Save package relationships
+14:05:03.304 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:03.304 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:03.306 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:03.306 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:03.306 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:03.307 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:03.307 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:03.309 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:03.310 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:03.310 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:03.313 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:03.313 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:03.539 [main] INFO  - Capturing the error message displayed
+14:05:03.575 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:03.576 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:03.577 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:03.588 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:03.641 [main] DEBUG - Save content types part
+14:05:03.644 [main] DEBUG - Save package relationships
+14:05:03.646 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:03.647 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:03.649 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:03.650 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:03.650 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:03.651 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:03.651 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:03.653 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:03.654 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:03.654 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:03.657 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:03.657 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:10.950 [main] INFO  - Going to makemytrip home page
+14:05:11.076 [main] INFO  - maximized window
+14:05:22.167 [main] INFO  - Going to makemytrip home page
+14:05:22.308 [main] INFO  - maximized window
+14:05:30.173 [main] INFO  - In the MakeMyTrip Website
+14:05:30.629 [main] INFO  - Clicking on hotels icon
+14:05:31.368 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:31.368 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:31.369 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:31.379 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:31.404 [main] DEBUG - Save content types part
+14:05:31.406 [main] DEBUG - Save package relationships
+14:05:31.407 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:31.408 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:31.410 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:31.410 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:31.411 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:31.411 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:31.412 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:31.414 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:31.414 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:31.414 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:31.417 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:31.417 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:31.625 [main] INFO  - Clicking on upto 4 rooms option
+14:05:32.273 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:32.274 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:32.275 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:32.282 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:32.311 [main] DEBUG - Save content types part
+14:05:32.312 [main] DEBUG - Save package relationships
+14:05:32.314 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:32.315 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:32.317 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:32.317 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:32.318 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:32.318 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:32.318 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:32.320 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:32.321 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:32.321 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:32.324 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:32.324 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:32.507 [main] INFO  - Clicking on rooms and guests dropdown
+14:05:32.706 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:32.707 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:32.708 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:32.718 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:32.749 [main] DEBUG - Save content types part
+14:05:32.751 [main] DEBUG - Save package relationships
+14:05:32.752 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:32.752 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:32.753 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:32.753 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:32.754 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:32.754 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:32.754 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:32.755 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:32.755 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:32.755 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:32.757 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:32.757 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:05:33.012 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+14:05:36.395 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:05:36.396 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+14:05:36.396 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:05:36.403 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:05:36.426 [main] DEBUG - Save content types part
+14:05:36.427 [main] DEBUG - Save package relationships
+14:05:36.429 [main] DEBUG - Save part 'docProps/app.xml'
+14:05:36.429 [main] DEBUG - Save part 'docProps/core.xml'
+14:05:36.431 [main] DEBUG - Save part 'xl/printerSettings/printerSettings1.bin'
+14:05:36.431 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+14:05:36.432 [main] DEBUG - Save part 'xl/styles.xml'
+14:05:36.432 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+14:05:36.433 [main] DEBUG - Save part 'xl/workbook.xml'
+14:05:36.435 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+14:05:36.435 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+14:05:36.435 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+14:05:36.438 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+14:05:36.438 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+14:10:09.447 [main] INFO  - Going to makemytrip home page
+14:10:09.570 [main] INFO  - maximized window
+14:10:18.078 [main] INFO  - In the MakeMyTrip Website
+14:10:19.242 [main] INFO  - Clicked on Cabs option
+14:10:27.242 [main] INFO  - Going to makemytrip home page
+14:10:27.375 [main] INFO  - maximized window
+14:10:37.290 [main] INFO  - Going to makemytrip home page
+14:10:37.417 [main] INFO  - maximized window
+14:10:47.508 [main] INFO  - Going to makemytrip home page
+14:10:47.627 [main] INFO  - maximized window
+14:11:35.405 [main] INFO  - Going to makemytrip home page
+14:11:35.546 [main] INFO  - maximized window
+14:11:46.474 [main] INFO  - Going to makemytrip home page
+14:11:46.604 [main] INFO  - maximized window
+14:11:57.857 [main] INFO  - Going to makemytrip home page
+14:11:57.992 [main] INFO  - maximized window
+14:12:09.254 [main] INFO  - Going to makemytrip home page
+14:12:09.398 [main] INFO  - maximized window
+14:12:16.790 [main] INFO  - In the MakeMyTrip Website
+14:12:17.368 [main] INFO  - Clicking on hotels icon
+14:12:19.592 [main] INFO  - Clicking on upto 4 rooms option
+14:12:20.210 [main] INFO  - Clicking on rooms and guests dropdown
+14:12:20.818 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+14:13:28.531 [main] INFO  - Going to makemytrip home page
+14:13:28.678 [main] INFO  - maximized window
+14:13:36.544 [main] INFO  - In the MakeMyTrip Website
+14:13:37.693 [main] INFO  - Clicked on Cabs option
+14:13:39.330 [main] INFO  - Clicked one way outstation cab
+14:13:43.350 [main] INFO  - Selected Delhi
+14:13:47.128 [main] INFO  - Selected Manali
+14:13:47.958 [main] INFO  - Selected date
+14:13:49.431 [main] INFO  - Selected Time
+14:13:53.808 [main] INFO  - Clicked on search button
+14:13:56.821 [main] INFO  - In cabs page
+14:13:57.286 [main] INFO  - Selected low to highest price in the sort by dropdown
+14:13:57.708 [main] INFO  - Selected SUV Checkbox
+14:13:58.008 [main] INFO  - Printing lowest cab details : 
+14:14:05.276 [main] INFO  - Going to makemytrip home page
+14:14:05.396 [main] INFO  - maximized window
+14:14:15.989 [main] INFO  - Going to makemytrip home page
+14:14:16.107 [main] INFO  - maximized window
+14:14:27.483 [main] INFO  - Going to makemytrip home page
+14:14:27.625 [main] INFO  - maximized window
+14:51:36.317 [main] INFO  - Going to makemytrip home page
+14:51:36.449 [main] INFO  - maximized window
+14:51:42.404 [main] INFO  - In the MakeMyTrip Website
+14:51:43.609 [main] INFO  - Clicked on Cabs option
+14:51:45.407 [main] INFO  - Clicked one way outstation cab
+14:51:49.425 [main] INFO  - Selected Delhi
+14:51:53.073 [main] INFO  - Selected Manali
+14:51:53.964 [main] INFO  - Selected date
+14:51:55.428 [main] INFO  - Selected Time
+14:51:58.245 [main] INFO  - Clicked on search button
+14:52:01.264 [main] INFO  - In cabs page
+14:52:02.594 [main] INFO  - Selected low to highest price in the sort by dropdown
+14:52:03.151 [main] INFO  - Selected SUV Checkbox
+14:52:03.517 [main] INFO  - Printing lowest cab details : 
+14:52:57.867 [main] INFO  - Going to makemytrip home page
+14:52:58.002 [main] INFO  - maximized window
+14:53:03.936 [main] INFO  - In the MakeMyTrip Website
+14:53:05.040 [main] INFO  - Clicked on Cabs option
+14:53:07.075 [main] INFO  - Clicked on search button
+14:53:10.099 [main] INFO  - In cabs page
+14:53:10.373 [main] INFO  - Clicking more dropdown
+14:53:10.713 [main] INFO  - Clicking gift cards option
+14:54:13.224 [main] INFO  - Going to makemytrip home page
+14:54:13.352 [main] INFO  - maximized window
+14:55:29.029 [main] INFO  - Going to makemytrip home page
+14:55:29.165 [main] INFO  - maximized window
+14:55:35.526 [main] INFO  - In the MakeMyTrip Website
+14:55:36.029 [main] INFO  - Clicking on hotels icon
+14:55:37.196 [main] INFO  - Clicking on upto 4 rooms option
+14:55:38.035 [main] INFO  - Clicking on rooms and guests dropdown
+14:55:38.641 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+15:14:27.027 [main] INFO  - Clicking on the cab option
+15:14:28.211 [main] INFO  - Clicked on Cabs option
+15:14:30.099 [main] INFO  - Clicking on the cab option
+15:14:30.271 [main] INFO  - Clicked one way outstation cab
+15:14:30.691 [main] INFO  - Selecting From
+15:14:34.336 [main] INFO  - Selected Delhi
+15:14:34.691 [main] INFO  - Selecting To
+15:14:37.959 [main] INFO  - Selected Manali
+15:14:38.481 [main] INFO  - Selecting Date
+15:14:39.147 [main] INFO  - Selected date
+15:14:39.599 [main] INFO  - Selecting Time
+15:14:40.837 [main] INFO  - Selected Time
+15:14:41.367 [main] INFO  - Clicking Search Button
+15:14:43.592 [main] INFO  - Clicked on search button
+15:14:46.612 [main] INFO  - In cabs page
+15:14:46.794 [main] INFO  - Selecting low to highest price in the sort by dropdown
+15:14:51.319 [main] INFO  - Selected low to highest price in the sort by dropdown
+15:14:51.471 [main] INFO  - Selecting SUV Checkbox
+15:14:51.568 [main] INFO  - Selected SUV Checkbox
+15:14:51.760 [main] INFO  - Printing lowest cab details : 
+15:15:04.694 [main] INFO  - Clicking on the cab option
+15:15:05.895 [main] INFO  - Clicked on Cabs option
+15:15:06.534 [main] INFO  - Clicking Search Button
+15:15:08.543 [main] INFO  - Clicked on search button
+15:15:11.555 [main] INFO  - In cabs page
+15:15:11.739 [main] INFO  - Clicking more dropdown
+15:15:11.809 [main] INFO  - Clicked on more dropdown
+15:15:11.997 [main] INFO  - Clicking gift cards option
+15:15:14.312 [main] INFO  - Clicked gift cards option
+15:15:14.497 [main] INFO  - Clicking on wedding giftcard
+15:15:17.002 [main] INFO  - In wedding giftcard page
+15:15:17.229 [main] INFO  - Passing sender's name, mobile and email id
+15:15:18.705 [main] INFO  - Clicking on buy now option with invalid email address
+15:15:18.833 [main] INFO  - Clicked on buy now option with invalid email address
+15:15:19.013 [main] INFO  - Capturing the error message displayed
+15:15:33.203 [main] INFO  - Clicking on the cab option
+15:15:34.338 [main] INFO  - Clicked on Cabs option
+15:15:34.628 [main] INFO  - Clicking Search Button
+15:15:36.382 [main] INFO  - Clicked on search button
+15:15:39.400 [main] INFO  - In cabs page
+15:15:39.593 [main] INFO  - Clicking more dropdown
+15:15:39.661 [main] INFO  - Clicked on more dropdown
+15:15:39.836 [main] INFO  - Clicking gift cards option
+15:15:42.094 [main] INFO  - Clicked gift cards option
+15:15:42.278 [main] INFO  - Clicking on wedding giftcard
+15:15:45.325 [main] INFO  - In wedding giftcard page
+15:15:45.526 [main] INFO  - Passing sender's name, mobile and email id
+15:15:47.074 [main] INFO  - Clicking on buy now option with valid email address
+15:16:04.727 [main] INFO  - Clicking on hotels icon
+15:16:05.827 [main] INFO  - Navigated to hotels page successfully
+15:16:06.114 [main] INFO  - Clicking on upto 4 rooms option
+15:16:06.197 [main] INFO  - Clicked on upto 4 rooms option
+15:16:06.396 [main] INFO  - Clicking on rooms and guests dropdown
+15:16:06.748 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+15:20:33.433 [main] INFO  - Going to makemytrip home page
+15:20:33.567 [main] INFO  - maximized window
+15:20:40.907 [main] INFO  - In the MakeMyTrip Website
+15:20:42.087 [main] INFO  - Clicked on Cabs option
+15:20:44.200 [main] INFO  - Clicked one way outstation cab
+15:20:48.346 [main] INFO  - Selected Delhi
+15:20:51.918 [main] INFO  - Selected Manali
+15:20:52.945 [main] INFO  - Selected date
+15:20:54.757 [main] INFO  - Selected Time
+15:20:58.911 [main] INFO  - Clicked on search button
+15:21:01.932 [main] INFO  - In cabs page
+15:21:02.302 [main] INFO  - Selected low to highest price in the sort by dropdown
+15:21:02.659 [main] INFO  - Selected SUV Checkbox
+15:21:02.979 [main] INFO  - Printing lowest cab details : 
+15:21:11.509 [main] INFO  - Going to makemytrip home page
+15:21:11.634 [main] INFO  - maximized window
+15:21:17.767 [main] INFO  - In the MakeMyTrip Website
+15:21:18.923 [main] INFO  - Clicked on Cabs option
+15:21:21.812 [main] INFO  - Clicked on search button
+15:21:24.830 [main] INFO  - In cabs page
+15:21:24.980 [main] INFO  - Clicking more dropdown
+15:21:25.233 [main] INFO  - Clicking gift cards option
+15:21:29.894 [main] INFO  - Clicking on wedding giftcard
+15:21:32.528 [main] INFO  - Passing sender's name, mobile and email id
+15:21:34.070 [main] INFO  - Clicking on buy now option with invalid email address
+15:21:34.474 [main] INFO  - Capturing the error message displayed
+15:21:41.612 [main] INFO  - Going to makemytrip home page
+15:21:41.739 [main] INFO  - maximized window
+15:21:48.716 [main] INFO  - In the MakeMyTrip Website
+15:21:49.853 [main] INFO  - Clicked on Cabs option
+15:21:52.164 [main] INFO  - Clicked on search button
+15:21:55.182 [main] INFO  - In cabs page
+15:21:55.335 [main] INFO  - Clicking more dropdown
+15:21:55.570 [main] INFO  - Clicking gift cards option
+15:21:59.940 [main] INFO  - Clicking on wedding giftcard
+15:22:02.866 [main] INFO  - Passing sender's name, mobile and email id
+15:22:04.545 [main] INFO  - Clicking on buy now option with valid email address
+15:22:16.115 [main] INFO  - Going to makemytrip home page
+15:22:16.245 [main] INFO  - maximized window
+15:22:22.306 [main] INFO  - In the MakeMyTrip Website
+15:22:22.675 [main] INFO  - Clicking on hotels icon
+15:22:23.693 [main] INFO  - Clicking on upto 4 rooms option
+15:22:24.309 [main] INFO  - Clicking on rooms and guests dropdown
+15:22:24.746 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+17:31:54.190 [main] INFO  - Going to makemytrip home page
+17:31:54.487 [main] INFO  - maximized window
+17:32:31.362 [main] INFO  - Going to makemytrip home page
+17:32:31.509 [main] INFO  - maximized window
+17:33:07.923 [main] INFO  - Going to makemytrip home page
+17:33:08.084 [main] INFO  - maximized window
+17:33:16.569 [main] INFO  - In the MakeMyTrip Website
+17:33:17.719 [main] INFO  - Clicked on Cabs option
+17:33:55.242 [main] INFO  - Going to makemytrip home page
+17:33:55.376 [main] INFO  - maximized window
+17:34:03.534 [main] INFO  - In the MakeMyTrip Website
+17:34:04.323 [main] INFO  - Clicking on hotels icon
+17:34:05.390 [main] INFO  - Clicking on upto 4 rooms option
+17:34:06.106 [main] INFO  - Clicking on rooms and guests dropdown
+17:34:07.067 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+17:53:07.888 [main] INFO  - Going to makemytrip home page
+17:53:08.037 [main] INFO  - maximized window
+17:53:14.093 [main] INFO  - In the MakeMyTrip Website
+17:53:15.220 [main] INFO  - Clicked on Cabs option
+17:53:16.340 [main] INFO  - Clicked one way outstation cab
+17:53:20.267 [main] INFO  - Selected Delhi
+17:53:23.821 [main] INFO  - Selected Manali
+17:53:24.649 [main] INFO  - Selected date
+17:53:25.792 [main] INFO  - Selected Time
+17:54:11.719 [main] INFO  - Going to makemytrip home page
+17:54:11.853 [main] INFO  - maximized window
+17:54:55.852 [main] INFO  - Going to makemytrip home page
+17:54:55.984 [main] INFO  - maximized window
+17:55:02.517 [main] INFO  - In the MakeMyTrip Website
+17:55:03.724 [main] INFO  - Clicked on Cabs option
+17:55:06.423 [main] INFO  - Clicked on search button
+17:55:09.447 [main] INFO  - In cabs page
+17:55:09.656 [main] INFO  - Clicking more dropdown
+17:55:10.024 [main] INFO  - Clicking gift cards option
+17:55:12.428 [main] INFO  - Clicking on wedding giftcard
+17:55:14.975 [main] INFO  - Passing sender's name, mobile and email id
+17:55:16.595 [main] INFO  - Clicking on buy now option with valid email address
+17:56:01.856 [main] INFO  - Going to makemytrip home page
+17:56:01.989 [main] INFO  - maximized window
+14:02:36.032 [main] INFO  - Going to makemytrip home page
+14:02:36.173 [main] INFO  - maximized window
+14:03:03.617 [main] INFO  - In the MakeMyTrip Website
+14:03:04.028 [main] INFO  - Clicked on Cabs option
+14:03:06.025 [main] INFO  - Clicked one way outstation cab
+14:03:10.305 [main] INFO  - Selected Delhi
+14:03:13.937 [main] INFO  - Selected Manali
+14:03:14.711 [main] INFO  - Selected date
+14:03:15.926 [main] INFO  - Selected Time
+14:03:18.406 [main] INFO  - Clicked on search button
+14:03:21.434 [main] INFO  - In cabs page
+14:03:22.121 [main] INFO  - Selected low to highest price in the sort by dropdown
+14:03:22.558 [main] INFO  - Selected SUV Checkbox
+14:03:22.814 [main] INFO  - Printing lowest cab details : 
+14:03:30.645 [main] INFO  - Going to makemytrip home page
+14:03:30.783 [main] INFO  - maximized window
+14:03:47.068 [main] INFO  - In the MakeMyTrip Website
+14:03:47.688 [main] INFO  - Clicked on Cabs option
+14:03:50.693 [main] INFO  - Clicked on search button
+14:03:53.725 [main] INFO  - In cabs page
+14:03:54.109 [main] INFO  - Clicking more dropdown
+14:03:54.532 [main] INFO  - Clicking gift cards option
+14:03:56.883 [main] INFO  - Clicking on wedding giftcard
+14:03:59.682 [main] INFO  - Passing sender's name, mobile and email id
+14:04:01.331 [main] INFO  - Clicking on buy now option with invalid email address
+14:04:01.702 [main] INFO  - Capturing the error message displayed
+14:04:09.135 [main] INFO  - Going to makemytrip home page
+14:04:09.270 [main] INFO  - maximized window
+14:04:24.996 [main] INFO  - In the MakeMyTrip Website
+14:04:25.354 [main] INFO  - Clicked on Cabs option
+14:04:28.088 [main] INFO  - Clicked on search button
+14:04:31.110 [main] INFO  - In cabs page
+14:04:31.344 [main] INFO  - Clicking more dropdown
+14:04:31.684 [main] INFO  - Clicking gift cards option
+14:04:34.274 [main] INFO  - Clicking on wedding giftcard
+14:04:37.561 [main] INFO  - Passing sender's name, mobile and email id
+14:04:39.193 [main] INFO  - Clicking on buy now option with valid email address
+14:04:51.584 [main] INFO  - Going to makemytrip home page
+14:04:51.725 [main] INFO  - maximized window
+14:05:07.622 [main] INFO  - In the MakeMyTrip Website
+14:05:07.807 [main] INFO  - Clicking on hotels icon
+14:05:08.348 [main] INFO  - Clicking on upto 4 rooms option
+14:05:08.858 [main] INFO  - Clicking on rooms and guests dropdown
+14:05:09.403 [main] INFO  - Clicking on adults dropdown and printing all the numbers
+16:18:06.751 [main] INFO  - Going to makemytrip home page
+16:18:06.914 [main] INFO  - maximized window
+16:18:18.453 [main] INFO  - Going to makemytrip home page
+16:18:18.596 [main] INFO  - maximized window
+16:19:22.489 [main] INFO  - Going to makemytrip home page
+16:19:22.630 [main] INFO  - maximized window
+16:19:29.740 [main] INFO  - Going to makemytrip home page
+16:19:29.891 [main] INFO  - maximized window
+16:20:32.658 [main] INFO  - Going to makemytrip home page
+16:20:32.803 [main] INFO  - maximized window
+16:20:44.503 [main] INFO  - Going to makemytrip home page
+16:20:44.634 [main] INFO  - maximized window
+16:21:22.829 [main] INFO  - Going to makemytrip home page
+16:21:22.968 [main] INFO  - maximized window
+16:21:34.466 [main] INFO  - Going to makemytrip home page
+16:21:34.612 [main] INFO  - maximized window
+16:24:45.936 [main] INFO  - Going to makemytrip home page
+16:24:46.083 [main] INFO  - maximized window
+16:25:03.309 [main] INFO  - In the MakeMyTrip Website
+16:25:03.719 [main] INFO  - Clicked on Cabs option
+16:25:08.027 [main] INFO  - Clicked on search button
+16:25:11.045 [main] INFO  - In cabs page
+16:25:11.288 [main] INFO  - Clicking more dropdown
+16:25:11.655 [main] INFO  - Clicking gift cards option
+16:25:13.635 [main] INFO  - Clicking on wedding giftcard
+16:25:16.481 [main] INFO  - Passing sender's name, mobile and email id
+16:25:18.220 [main] INFO  - Clicking on buy now option with invalid email address
+16:25:18.644 [main] INFO  - Capturing the error message displayed
+16:25:25.961 [main] INFO  - Going to makemytrip home page
+16:25:26.097 [main] INFO  - maximized window
+18:48:48.322 [main] INFO  - Going to makemytrip home page
+18:48:48.461 [main] INFO  - maximized window
+18:49:05.187 [main] INFO  - In the MakeMyTrip Website
+18:49:05.819 [main] INFO  - Clicked on Cabs option
+18:49:08.218 [main] INFO  - Clicked one way outstation cab
+18:49:12.429 [main] INFO  - Selected Delhi
+18:49:16.147 [main] INFO  - Selected Manali
+18:49:16.896 [main] INFO  - Selected date
+18:49:18.153 [main] INFO  - Selected Time
+18:49:19.981 [main] INFO  - Clicked on search button
+18:49:23.004 [main] INFO  - In cabs page
+18:49:23.813 [main] INFO  - Selected low to highest price in the sort by dropdown
+18:49:24.212 [main] INFO  - Selected SUV Checkbox
+18:49:24.492 [main] INFO  - Printing lowest cab details : 
+18:49:31.781 [main] INFO  - Going to makemytrip home page
+18:49:31.927 [main] INFO  - maximized window
+18:49:48.084 [main] INFO  - In the MakeMyTrip Website
+18:49:48.488 [main] INFO  - Clicked on Cabs option
+18:49:50.357 [main] INFO  - Clicked on search button
+18:49:53.375 [main] INFO  - In cabs page
+18:49:53.561 [main] INFO  - Clicking more dropdown
+18:49:53.888 [main] INFO  - Clicking gift cards option
+18:49:55.992 [main] INFO  - Clicking on wedding giftcard
+18:49:57.449 [main] INFO  - Passing sender's name, mobile and email id
+18:49:59.088 [main] INFO  - Clicking on buy now option with invalid email address
+18:49:59.452 [main] INFO  - Capturing the error message displayed

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="4">   <!--parallel="tests" -->
+
+<listeners>
+	<listener class-name="Utilities.ExtentReportManager"></listener>
+</listeners>
+
+ <test thread-count="5" name="Test1">
+  
+ 		<parameter name="os" value="windows" />
+		<parameter name="browser" value="chrome" />
+		
+    <classes>
+      <class name="TestCases.TC_01_LowestCabDetails"/>
+      <class name="TestCases.TC_02_SendingInvalidEmail"/>
+      <class name="TestCases.TC_03_SendingValidEmail"/>
+      <class name="TestCases.TC_04_Hotels_Section"/>
+    </classes>
+    
+  </test>
+  <!-- Test -->
+  
+  <!--<test thread-count="5" name="Test2">
+  
+ 		<parameter name="os" value="windows" />
+		<parameter name="browser" value="edge" />
+		
+    <classes>
+      <class name="TestCases.TC_01_LowestCabDetails"/>
+      <class name="TestCases.TC_02_SendingInvalidEmail"/>
+      <class name="TestCases.TC_03_SendingValidEmail"/>
+      <class name="TestCases.TC_04_Hotels_Section"/> 
+    </classes>
+    
+  </test>-->
+  
+  
+</suite> <!-- Suite -->
